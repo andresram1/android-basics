@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <dimen name="minimum" tools:ignore="MissingDefaultResource">16dp</dimen>
+    <dimen name="medium" tools:ignore="MissingDefaultResource">32dp</dimen>
+    <dimen name="large" tools:ignore="MissingDefaultResource">60dp</dimen>
+    <dimen name="maximum" tools:ignore="MissingDefaultResource">300dp</dimen>
+
+    <dimen name="text" tools:ignore="MissingDefaultResource">12sp</dimen>
+
+</resources>

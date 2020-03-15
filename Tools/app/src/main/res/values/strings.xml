@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tools</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lantern_button">Lantern Button</string>
+    <string name="level_button">Level Button</string>
+    <string name="music_button">Music Button</string>
+    <string name="tools_image">tools_image</string>
+</resources>
