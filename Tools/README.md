@@ -1,5 +1,5 @@
 
-# App - An example to operate Fragments
+# App - An example to operate Fragments (Kotlin version)
 
 ## Overview
 
